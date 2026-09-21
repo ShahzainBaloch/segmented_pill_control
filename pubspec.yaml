@@ -1,0 +1,24 @@
+name: segmented_pill_control
+description: A fluid sliding segmented pill control with spring animations, badge indicators, custom styling, and haptics.
+version: 1.0.0
+repository: https://github.com/ShahzainBaloch/segmented_pill_control
+issue_tracker: https://github.com/ShahzainBaloch/segmented_pill_control/issues
+topics:
+  - ui
+  - tabs
+  - segmented-control
+  - pill
+  - animation
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0

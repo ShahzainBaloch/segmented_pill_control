@@ -1,0 +1,19 @@
+name: segmented_pill_control_example
+description: Demonstrates how to use segmented_pill_control.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  segmented_pill_control:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
