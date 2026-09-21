@@ -1,3 +1,9 @@
+## 1.0.1
+
+* Enhanced documentation and comprehensive API reference.
+* Added detailed code examples for badges, controllers, and custom themes.
+* Refined layout elasticity and responsive sizing.
+
 ## 1.0.0
 
 * Initial release of `segmented_pill_control`.

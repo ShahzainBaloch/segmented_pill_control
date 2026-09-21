@@ -1,6 +1,6 @@
 name: segmented_pill_control
 description: A fluid sliding segmented pill control with spring animations, badge indicators, custom styling, and haptics.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/ShahzainBaloch/segmented_pill_control
 issue_tracker: https://github.com/ShahzainBaloch/segmented_pill_control/issues
 topics:
